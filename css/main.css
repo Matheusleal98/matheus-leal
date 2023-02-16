@@ -93,6 +93,7 @@
                  border-bottom: 2px solid #25ca7f;
                  margin-bottom: 50px;
              }
+
              /* Menu Section End */
              /* Fill Animation Section Init*/
              
@@ -255,6 +256,15 @@
                  height: 1;
                  width: 15px;
                  background: #25ca7f;
+             }
+
+             .timeline-item .title-experiencia {
+                 text-transform: uppercase;
+                 font-weight: bold;
+                 font-size: 17px;
+                 margin-bottom: 10px;
+                 display: flex;
+
              }
              /* TimeLine Section End */
              /* Progress Bar Section Init*/
